@@ -23,7 +23,7 @@ I'm Hugo Pérez, undergraduate of Telecommunications and Electronic Engineering.
   - Guitar string tuner (kinda) using MATLAB and FFT, including a GUI.
   - A basic Synthesizer emulation using a NUCLEO-F767ZI board connected to a Yamaha PSR - 175 MIDI keyboard. 
   - A recreation of the Tetris game using a bluepill board, LED matrices, an OLED display and a pair of speakers.
-  - A basic Task Manager using C.
+  - Basic FreeRTOS implementation on STM32F103C8T6 Microcontroller to solve thread synchronization problems using semaphores.
 
 ## What I'm currently learning...
 - General use of RTOS in the embedded world.
