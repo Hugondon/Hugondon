@@ -9,8 +9,13 @@ I'm Hugo Pérez, undergraduate of Telecommunications and Electronic Engineering.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugondon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-💬 You can reach me via email: hugo.rpc9@gmail.com or via my LinkedIn Profile [here](https://www.linkedin.com/in/hugo-perez9/)
+💬 You can reach me via:
 
+| Option | Information |
+| ----------- | ----------- |
+| ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | hugo.rpc9@gmail.com  |
+| ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) |  [Hugo Pérez](https://www.linkedin.com/in/hugo-perez9/) | 
+  
 
 ## Projects I've worked on.
 
