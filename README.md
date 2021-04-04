@@ -4,8 +4,8 @@ I'm Hugo Pérez, undergraduate of Telecommunications and Electronic Engineering.
 
 ⚡ My main interests are:
   - Microcontroller (AVR, STM & ESP32) firmware development for various applications, including IoT and Digital Processing.
-  - Python programming to complement hardware projects (GUIs). Maybe a project using Django Framework coming soon... 😄
-  - Microprocessor Design using FPGAs programmed in VHDL
+  <!-- - Python programming to complement hardware projects (GUIs). Maybe a project using Django Framework coming soon... 😄 -->
+  - Digital Design using FPGAs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugondon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,6 +27,5 @@ I'm Hugo Pérez, undergraduate of Telecommunications and Electronic Engineering.
 
 ## What I'm currently learning...
 - General use of RTOS in the embedded world.
-- Django Framework.
 - Bash Scripting.
 - Embedded C++.
