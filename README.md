@@ -1,6 +1,6 @@
 # Hi there 👋.
 ## About Me
-I'm Hugo Pérez, undergraduate of Telecommunications and Electronic Engineering.
+I'm Hugo Pérez, graduate of Telecommunications and Electronic Engineering.
 
 ⚡ My main interests are:
   - Microcontroller (AVR, STM & ESP32) firmware development for various applications, including IoT and Digital Processing.
